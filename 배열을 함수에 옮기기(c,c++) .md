@@ -33,6 +33,30 @@ int main()
 
 **3. 함수옆에 괄호안에 넣어준 1차원, 2차원 베열을 func1의 괄호 안에 자료형을 붙혀서 그대로 넣어준다. (func1의 매개변수 안에 배열들을 넣어준다.)**
 
+#include<iostream>
+
+using namespace std;
+
+void func1(int v1[2], int v2[3][3])
+
+{
+
+	
+
+}
+
+int main()
+
+{
+
+	int v1[2], v2[3][3];
+
+	func1(v1, v2);
+
+}
+
+**아래는 입출력까지 완성된 **
+
 #include<*iostream*>
 
 using namespace std;
