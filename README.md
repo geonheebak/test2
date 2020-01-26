@@ -1,8 +1,8 @@
-#include<iostream>
+#include<iostream>\n
  
-using namespace std;
-int main()
-  {
-  cout <<"hi";
-  return 0;
+using namespace std\n;
+int main()\n
+  {\n
+  cout <<"hi"\n;
+  return 0\n;
   }
